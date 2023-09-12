@@ -1,7 +1,7 @@
 <h1 align="center">HOLA 👋, MI NOMBRE ES JOSE FRANCISCO MURILLO MALDONADO</h1>
 <h3 align="center">SOY UN ANALISTA DE DATOS APASSIONADO</h3>
 
-- 💬 Ask me about **SQL - PHYTON - C++**
+- 💬 Ask me about **SQL - PHYTON - C++ - POWER BI**
 
 - 📫 How to reach me **jfmurillo100@gmail.com**
 
