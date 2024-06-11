@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jfmurillo100@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: + 57 3235025516</h3>
 <p align="left">
 </p>
 
