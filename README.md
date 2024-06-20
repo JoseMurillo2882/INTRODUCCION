@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=Hi+%F0%9F%91%8B+I'm+JOSE+F.+MURILLO" alt="Typing SVG" />
+
+Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionate about technological innovation, problem-solving, and large-scale data analysis. Seeking challenges that allow for professional growth.
 </p>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
@@ -34,10 +36,10 @@
   <code><img title="Git" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git</code>
   <code><img title="VS Code" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> VS Code</code>
   <code><img title="GitHub" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> GitHub</code>
-  <code><img title="DataSpell" alt="DataSpell" width="30px" src="https://resources.jetbrains.com/storage/products/dataspell/img/meta/dataspell_logo_300x300.png" /> DataSpell</code>
-  <code><img title="DataGrip" alt="DataGrip" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-plain.svg" /> DataGrip</code>
   <code><img title="AWS" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> AWS</code>
-</p>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Icon" width="30px" /> Jupiter</code>
+  </p>
+  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=THANKS+FOR+VISIT" alt="Typing SVG" />
