@@ -35,7 +35,6 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
 <h2>:hammer_and_wrench: Tools and technologies</h2>
 
 <p align="center">
-  <code><img title="Ubuntu" alt="Ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> Ubuntu</code>
   <code><img title="Git" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git</code>
   <code><img title="VS Code" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> VS Code</code>
   <code><img title="GitHub" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> GitHub</code>
