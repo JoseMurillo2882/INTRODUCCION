@@ -43,7 +43,36 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Icon" width="30px" /> Jupiter</code>
   </p>
   
+<table align="center" width="80%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>Análisis de costos de Importación o Exportación, ETL-PYTHON</h3>
+      <div>
+        <a href="https://github.com/JoseMurillo2882/ETL_python" target="_blank">
+          <img src="https://github.com/JoseMurillo2882/hyperblog/blob/master/imagenes/ETL.JPG" width="100%" alt="Curso ETL">
+        </a>
+        <p align="justify">Los datos no siempre están listos para trabajarlos en procesos de analítica y machine learning. En este proyecto preparamos los datos crudos a través de un flujo ETL en las tareas en ingeniería de datos. Utiliza Python y herramientas low-code.</p>
+        <a href="https://github.com/JoseMurillo2882/ETL_python" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-54A5DA?style=for-the-badge&logo=github&logoColor=white" alt="Código en GitHub">
+        </a>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <h3>Ejemplos de Bases de Datos</h3>
+      <div>
+        <a href="https://github.com/JoseMurillo2882/Ejemplos_DF_python" target="_blank">
+          <img src="https://github.com/JoseMurillo2882/hyperblog/blob/master/imagenes/COLAB.png" width="100%" alt="Curso PANDAS Y NUMPY">
+        </a>
+        <p align="justify">Proyectos desarrollados en Google Colab y programados con Python, utilizando diferentes librerías como PANDAS, NUMPY, MATPLOTLIB, SEABORN.</p>
+        <a href="https://github.com/JoseMurillo2882/Ejemplos_DF_python" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white" alt="Código en GitHub">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=THANKS+FOR+VISIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=THANKS+FOR+VISIT" alt="Typing SVG">
 </p>
