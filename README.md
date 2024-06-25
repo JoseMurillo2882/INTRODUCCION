@@ -1,5 +1,8 @@
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=30&duration=2000&pause=5000&color=1753AE&center=true&vCenter=true&random=false&width=435&height=40&lines=Hi+%F0%9F%91%8B+I'm+JOSE+F.+MURILLO" alt="Typing SVG" />
+
+
 
 Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionate about technological innovation, problem-solving, and large-scale data analysis. Seeking challenges that allow for professional growth.
 </p>
