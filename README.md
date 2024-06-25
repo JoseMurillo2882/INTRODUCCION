@@ -42,7 +42,9 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
   <code><img title="AWS" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> AWS</code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Icon" width="30px" /> Jupiter</code>
   </p>
-  
+
+
+<h2>PROJECTS</h2>  
 <table align="center" width="80%">
   <tr>
     <td width="50%" align="center">
