@@ -48,7 +48,7 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
 <h2>PROJECTS</h2>  
 <table align="center" width="80%">
   <tr>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <h3>Análisis de costos de Importación o Exportación, ETL-PYTHON</h3>
       <div>
         <a href="https://github.com/JoseMurillo2882/ETL_python" target="_blank">
@@ -60,7 +60,7 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
         </a>
       </div>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <h3>Ejemplos de Bases de Datos</h3>
       <div>
         <a href="https://github.com/JoseMurillo2882/Ejemplos_DF_python" target="_blank">
@@ -72,7 +72,7 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
         </a>
       </div>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <h3>Análisis de Datos de Spotify con Python</h3>
       <div>
         <a href="https://github.com/JoseMurillo2882/Spotify-Py" target="_blank">
@@ -84,8 +84,21 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
         </a>
       </div>
     </td>
+    <td width="25%" align="center">
+      <h3>Análisis de Datos COVID-19</h3>
+      <div>
+        <a href="https://github.com/JoseMurillo2882/Covid_19_analyst" target="_blank">
+          <img src="https://github.com/JoseMurillo2882/hyperblog/blob/master/imagenes/Covid%20-19.png" width="100%" alt="Análisis de Datos COVID-19">
+        </a>
+        <p align="justify">Análisis de datos relacionados con la pandemia de COVID-19. Utilizando Python y diversas librerías, se realiza la extracción, limpieza y visualización de datos para obtener información valiosa sobre la evolución del virus.</p>
+        <a href="https://github.com/JoseMurillo2882/Covid_19_analyst" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="Código en GitHub">
+        </a>
+      </div>
+    </td>
   </tr>
 </table>
+
 
 
 
