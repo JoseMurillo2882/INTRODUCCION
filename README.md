@@ -44,8 +44,6 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
 
 
 # Projects
-
-<h2>PROJECTS</h2>  
 <table align="center" width="80%">
   <tr>
     <td width="25%" align="center">
