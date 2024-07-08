@@ -61,18 +61,6 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
       </div>
     </td>
     <td width="25%" align="center">
-      <h3>Ejemplos de Bases de Datos</h3>
-      <div>
-        <a href="https://github.com/JoseMurillo2882/Ejemplos_DF_python" target="_blank">
-          <img src="https://github.com/JoseMurillo2882/hyperblog/blob/master/imagenes/COLAB.png" width="100%" alt="Curso PANDAS Y NUMPY">
-        </a>
-        <p align="justify">Proyectos desarrollados en Google Colab y programados con Python, utilizando diferentes librerías como PANDAS, NUMPY, MATPLOTLIB, SEABORN.</p>
-        <a href="https://github.com/JoseMurillo2882/Ejemplos_DF_python" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-7FBC7F?style=for-the-badge&logo=github&logoColor=white" alt="Código en GitHub">
-        </a>
-      </div>
-    </td>
-    <td width="25%" align="center">
       <h3>Análisis de Datos de Spotify con Python</h3>
       <div>
         <a href="https://github.com/JoseMurillo2882/Spotify-Py" target="_blank">
