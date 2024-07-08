@@ -43,10 +43,12 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
   </p>
 
 
+# Projects
+
 <h2>PROJECTS</h2>  
 <table align="center" width="80%">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>Análisis de costos de Importación o Exportación, ETL-PYTHON</h3>
       <div>
         <a href="https://github.com/JoseMurillo2882/ETL_python" target="_blank">
@@ -58,7 +60,7 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
         </a>
       </div>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>Ejemplos de Bases de Datos</h3>
       <div>
         <a href="https://github.com/JoseMurillo2882/Ejemplos_DF_python" target="_blank">
@@ -70,8 +72,21 @@ Electronic Engineer with experience in Python, SQL, ETL, AWS, and IoT. Passionat
         </a>
       </div>
     </td>
+    <td width="33%" align="center">
+      <h3>Análisis de Datos de Spotify con Python</h3>
+      <div>
+        <a href="https://github.com/JoseMurillo2882/Spotify-Py" target="_blank">
+          <img src="https://github.com/JoseMurillo2882/hyperblog/blob/master/imagenes/Spotify.png" width="100%" alt="Análisis de Datos de Spotify">
+        </a>
+        <p align="justify">Proyecto de análisis de datos utilizando la API de Spotify para extraer y analizar información sobre artistas y pistas. Este proyecto emplea Python y diversas librerías para la manipulación y visualización de datos.</p>
+        <a href="https://github.com/JoseMurillo2882/Spotify-Py" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-1DB954?style=for-the-badge&logo=github&logoColor=white" alt="Código en GitHub">
+        </a>
+      </div>
+    </td>
   </tr>
 </table>
+
 
 
 <p align="center">
